@@ -1,0 +1,44 @@
+.about {
+  background-color: white;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: var(--spacing-xl);
+  align-items: center;
+  margin-top: var(--spacing-lg);
+}
+
+.imagePlaceholder {
+  aspect-ratio: 1;
+  background-color: var(--bg-color);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.img {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.content p {
+  margin-bottom: var(--spacing-md);
+  color: var(--text-muted);
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .imagePlaceholder {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+}

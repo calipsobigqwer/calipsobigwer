@@ -1,17 +1,45 @@
+import styles from './Projects.module.css'
+
+const projects = [
+  {
+    title: 'E-commerce Platform',
+    description: 'A full-featured online store built with React and Node.js.',
+    tags: ['React', 'Node.js', 'MongoDB'],
+    link: '#'
+  },
+  {
+    title: 'Task Management App',
+    description: 'A productivity tool to manage daily tasks and team collaboration.',
+    tags: ['TypeScript', 'React', 'Firebase'],
+    link: '#'
+  },
+  {
+    title: 'Weather Dashboard',
+    description: 'Real-time weather data visualization using OpenWeather API.',
+    tags: ['JavaScript', 'CSS Modules', 'API'],
+    link: '#'
+  }
+]
+
 const Projects = () => {
   return (
-    <section id="projects" className="section">
+    <section id="projects" className={styles.projects}>
       <div className="container">
-        <h2>My Projects</h2>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', marginTop: '2rem' }}>
-          <div style={{ border: '1px solid #e2e8f0', padding: '1.5rem', borderRadius: '8px' }}>
-            <h3>Project 1</h3>
-            <p>Description of project 1.</p>
-          </div>
-          <div style={{ border: '1px solid #e2e8f0', padding: '1.5rem', borderRadius: '8px' }}>
-            <h3>Project 2</h3>
-            <p>Description of project 2.</p>
-          </div>
+        <h2 className="section-title">My Projects</h2>
+        <div className={styles.grid}>
+          {projects.map((project, index) => (
+            <div key={index} className={styles.card}>
+              <div className={styles.cardImage}>Project Screenshot</div>
+              <div className={styles.cardContent}>
+                <h3>{project.title}</h3>
+                <p>{project.description}</p>
+                <div className={styles.tags}>
+                  {project.tags.map(tag => <span key={tag}>{tag}</span>)}
+                </div>
+                <a href={project.link} className={styles.link}>View Project &rarr;</a>
+              </div>
+            </div>
+          ))}
         </div>
       </div>
     </section>
