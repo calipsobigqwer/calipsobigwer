@@ -1,0 +1,2467 @@
+{
+  "site_metadata": {
+    "title": "Доставка букетов в Кирове | Купить цветы онлайн круглосуточно",
+    "url": "https://buket43.ru/",
+    "meta_description": "Купить свежие букеты в Кирове с круглосуточной доставкой. Широкий выбор цветов и композиций на любой праздник. Быстрая доставка за 30-60 минут, бесплатная упаковка, удобный заказ онлайн 24/7.",
+    "meta_keywords": "",
+    "og": {
+      "title": "Цветочная лавка «Букет» в Кирове | Купить букеты с доставкой недорого",
+      "description": "Купить свежие букеты в Кирове с бесплатной доставкой во все районы города недорого. Широкий выбор цветов и композиций на любой праздник. Быстрая доставка за 30-60 минут, бесплатная упаковка, удобный заказ онлайн 24/7.",
+      "image": "https://static.tildacdn.com/tild6638-3738-4663-a136-333933383530/image.png"
+    }
+  },
+  "company_info": {
+    "name": "Цветочная лавка «Букет»",
+    "phones": [
+      "+7 (912) 372-22-85"
+    ],
+    "address": "г.Киров, ул.Горького, д.56, Киров",
+    "working_hours": "ежедневно с 9.00 до 22.00",
+    "order_intake_hours": "09:00 - 21:00",
+    "social_links": {
+      "vk_group": "https://vk.com/kirov_buket",
+      "vk_clips": "https://vk.com/clips/kirov_buket",
+      "whatsapp": "https://wa.me/79123722285",
+      "telegram": "https://t.me/YanaA2802",
+      "dzen": "https://dzen.ru/kirov_buket",
+      "yandex_map_reviews": "https://yandex.ru/maps/org/buket/30494414686/reviews/"
+    },
+    "requisites": "ИП Антипина Яна Викторовна — действующее предприятие. ИНН 041104993015, ОГРНИП 325430000001829, ОКПО 2038909067, ОКАТО 33401361000, ОКТМО 33701000001, ОКОПФ 50102, ОКОГУ 4210015, ОКФС 16.",
+    "developer": "Разработка и продвижение сайта — «Полдень» (https://experts.tilda.ru/ivan_15355)"
+  },
+  "navigation": [
+    {
+      "title": "Каталог букетов",
+      "url": "https://buket43.ru/catalog"
+    },
+    {
+      "title": "Доставка и оплата",
+      "url": "https://buket43.ru/dostavka"
+    },
+    {
+      "title": "О нас",
+      "url": "https://buket43.ru/about"
+    },
+    {
+      "title": "Контакты",
+      "url": "https://buket43.ru/contacts"
+    }
+  ],
+  "promotions": [
+    {
+      "title": "Скидка при самовывозе",
+      "description": "Скидка 300₽ при самовывозе при покупке от 3500 рублей."
+    },
+    {
+      "title": "СЕЗОННОЕ МЕНЮ",
+      "subtitle": "Собрали лето в букеты",
+      "link": "https://buket43.ru/piony"
+    },
+    {
+      "title": "Индивидуальные букеты",
+      "subtitle": "Создаем индивидуальные букеты, для свадеб и мероприятий в Кирове",
+      "link": "https://buket43.ru/svadebnye-bukety"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Бонусная система",
+      "link": "https://buket43.ru/catalog"
+    },
+    {
+      "title": "Быстрая доставка",
+      "description": "Мы доставляем букеты в течение 3 часов после заказа (в течении 60 минут в черте города)"
+    },
+    {
+      "title": "Всегда свежие цветы",
+      "description": "Наши букеты будут вас радовать как минимум полторы недели"
+    },
+    {
+      "title": "Талантливые флористы",
+      "description": "Все наши флористы имеют многолетний опыт работы и хороший вкус"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Цветы будут свежие?",
+      "answer": "Мы работаем только со свежими цветами, закупаем их у проверенных поставщиков. Цветы правильно обработаны и всегда проходят наш контроль качества."
+    },
+    {
+      "question": "Какие гарантии, что цветы не завянут?",
+      "answer": "Мы принимаем все меры, чтобы обеспечить свежесть и сохранность цветка:\n- Мы работаем только со свежими цветами, закупаем их у проверенных поставщиков.\n- Мы не пересобираем старые букеты. Все букеты делаются строго под заказ.\n- Букеты всегда упаковываются в одноразовую вазу с водой и в транспортировочных коробках. В холодную погоду букеты дополнительно утепляются.\n- К каждому букету прилагается инструкция по уходу и специальная подкормка, продлевающая жизнь цветов."
+    },
+    {
+      "question": "Как быстро доставят купленные цветы и подарки по адресу?",
+      "answer": "В течении 60 минут в черте города. За пределами города обсуждается лично с заказчиком."
+    },
+    {
+      "question": "Все ли букеты на сайте доступны для заказа?",
+      "answer": "Мы поддерживаем каталог актуальным и обновляем его согласно сезонности. Тем не менее, возможны ситуации, что цветок ненадлежащего качества или не пришел в поставке. Наши менеджеры подтверждают заказ после оформления."
+    },
+    {
+      "question": "Будет ли букет выглядеть как на картинке?",
+      "answer": "Все фотографии на нашем сайте – это букеты, сделанные флористами Цветочная лавка Buket. Но цветы – это живой организм, кроме того многие из них – сезонные. А значит, они не всегда доступны и даже в рамках одного сезона могут отличаться размером, формой и оттенком. Если вы хотите получить букет, максимально приближенный к фотографии, выбирайте букет из 1-2 видов цветов (моно и дуобукеты) и укажите свои пожелания при оформлении заказа. По готовности мы отправим фотографию именно вашего букета."
+    },
+    {
+      "question": "Как ухаживать за букетом дома?",
+      "answer": "К каждому букету прилагается инструкция по уходу и специальная подкормка, продлевающая жизнь цветов."
+    }
+  ],
+  "catalog_categories": [
+    {
+      "category_id": "102234299313",
+      "category_name": "Клубника в шоколаде",
+      "products_count": 5,
+      "products": [
+        {
+          "id": 484578979063,
+          "title": "Букет из клубники в шоколаде «Клубничная нежность»",
+          "price": 4000.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3164-3435-4164-a666-323535396164/674ccf2698d0e5475bf30d135642e605.jpg",
+            "https://static.tildacdn.com/stor3339-3032-4161-a137-616238623735/992b911152e70d8dcb4721ccb7a6fe57.jpg",
+            "https://static.tildacdn.com/stor3135-3332-4436-b335-316664316464/b3aa331b1e5a72105a95c00df1c2c6a0.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/klubnika-v-shokolade/tproduct/484578979063-buket-iz-klubniki-v-shokolade-klubnichna"
+        },
+        {
+          "id": 165230090973,
+          "title": "Букет из клубники в шоколаде «Для любимой»",
+          "price": 3500.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6466-6266-4666-a363-636466366133/84fd57c016dce7bcc69d58356bb46769.jpg",
+            "https://static.tildacdn.com/stor6437-3232-4761-b530-356331363231/e0f2dce81534ae139916d78a3ae1ce07.jpg",
+            "https://static.tildacdn.com/stor3863-3636-4336-b565-663435316533/7e9aaade516c0de8e25e6f83853a0741.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/klubnika-v-shokolade/tproduct/165230090973-buket-iz-klubniki-v-shokolade-dlya-lyubi"
+        },
+        {
+          "id": 850803403633,
+          "title": "Букет клубники в шоколаде «Королевский подарок»",
+          "price": 4800.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3434-3032-4138-a566-633431386265/efc49a9f26f5a612ffd0881522656e48.jpg",
+            "https://static.tildacdn.com/stor6262-6464-4032-b062-613533343935/474e3ff479a7cda649b8cda8998eedc5.jpg",
+            "https://static.tildacdn.com/stor3362-6337-4134-a130-633435366435/4cf22aa17336b016ecaf2ebe08dd16b4.jpg",
+            "https://static.tildacdn.com/stor3030-3366-4338-b636-303435626662/e44bb383f8a42d4156e510e2c706ecc6.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/klubnika-v-shokolade/tproduct/850803403633-buket-klubniki-v-shokolade-korolevskii-p"
+        },
+        {
+          "id": 712871489713,
+          "title": "Комбо набор: шикарный букет + клубника в шоколаде",
+          "price": 4500.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3631-3161-4138-b064-656439366133/71f6645c3de0db61da1a7f511db1d620.jpg",
+            "https://static.tildacdn.com/stor3439-3535-4331-a339-313339393363/4c110ade7feb9e3220fa224918bed1f0.jpg",
+            "https://static.tildacdn.com/stor3633-3736-4534-b961-613539633638/308dd59e28873b5127489ff901ad51c0.jpg",
+            "https://static.tildacdn.com/stor3136-3063-4361-b263-626264656537/0e4fb1625c28837e8f8b15c53402b6bd.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/klubnika-v-shokolade/tproduct/712871489713-kombo-nabor-shikarnii-buket-klubnika-v-s"
+        },
+        {
+          "id": 855082032953,
+          "title": "Свежая, сочная и оооочень сладкая клубника, да еще и в бельгийском шоколаде 😍",
+          "price": 1100.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3266-6335-4232-a363-306363636462/85334b632fbb7fb5bda932c7e51433db.jpg",
+            "https://static.tildacdn.com/stor3937-6665-4465-a532-636230323131/40c358d8e4b7f0a72f9a150e735c590b.jpg",
+            "https://static.tildacdn.com/stor3133-3262-4036-a532-636363316666/62fe97121da241cca0acf6d6dad702ee.jpg",
+            "https://static.tildacdn.com/stor3937-6665-4465-a532-636230323131/40c358d8e4b7f0a72f9a150e735c590b.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/klubnika-v-shokolade/tproduct/855082032953-svezhaya-sochnaya-i-oooochen-sladkaya-kl"
+        }
+      ]
+    },
+    {
+      "category_id": "164065716542",
+      "category_name": "Букеты в корзине",
+      "products_count": 7,
+      "products": [
+        {
+          "id": 743898462372,
+          "title": "Корзинка с розами",
+          "price": 4430.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3833-3063-4165-a237-373366646463/55710528.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/743898462372-korzinka-s-rozami"
+        },
+        {
+          "id": 615239772692,
+          "title": "Копозиция в корзинке",
+          "price": 3210.0,
+          "price_old": null,
+          "description": "Коппозиция из ромашковой хризантемы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3961-3838-4333-b438-326532306432/89428619.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/615239772692-kopozitsiya-v-korzinke"
+        },
+        {
+          "id": 876357869042,
+          "title": "Корзина сборная",
+          "price": 7480.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6636-3933-4638-b561-386434623837/23698915.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/876357869042-korzina-sbornaya"
+        },
+        {
+          "id": 484507441502,
+          "title": "Цветочная композиция в корзине",
+          "price": 3280.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6365-6234-4566-a465-373061383137/61016730.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/484507441502-tsvetochnaya-kompozitsiya-v-korzine"
+        },
+        {
+          "id": 621952659262,
+          "title": "Цветочная корзина «Небесной Нежности»",
+          "price": 7480.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3434-3633-4461-b031-303263353936/5476676fdeb9f91dff1ae7d6c9f5b2b1.jpg",
+            "https://static.tildacdn.com/stor3664-3435-4033-a235-366466396535/c9ed58b316caf80ab22658cd4631f928.jpg",
+            "https://static.tildacdn.com/stor3430-3963-4233-b535-313965336336/9c59eb4549e16be2622950cbc6bb56a4.jpg",
+            "https://static.tildacdn.com/stor3763-3234-4562-a531-373864616434/b3c841a512071c0ed89b0d321b004973.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/621952659262-tsvetochnaya-korzina-nebesnoi-nezhnosti"
+        },
+        {
+          "id": 859763935012,
+          "title": "Композиция «Снежный жемчуг»",
+          "price": 6100.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3961-3632-4461-b264-366434396637/1edc6a69b0309d5cd7235bdcef3f7ab8.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/859763935012-kompozitsiya-snezhnii-zhemchug"
+        },
+        {
+          "id": 777113142423,
+          "title": "Яркая красочная корзинка из разных цветов",
+          "price": 3500.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3961-3535-4236-b839-653766326631/a050999b3331ef829e60221fdd0f027e.jpg",
+            "https://static.tildacdn.com/stor6466-6437-4639-b635-393037363762/f8b8f0117382f864c69437780dc6f1b0.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-v-korzine/tproduct/777113142423-yarkaya-krasochnaya-korzinka-iz-raznih-t"
+        }
+      ]
+    },
+    {
+      "category_id": "501042165402",
+      "category_name": "Трендовые букеты",
+      "products_count": 11,
+      "products": [
+        {
+          "id": 506117877982,
+          "title": "Сборный букет с гортензией, маттиолой, диантусами и вербой",
+          "price": 2800.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3264-6362-4563-a466-316665373763/dc362d763d11798d7e1098fdc6bdfe07.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/506117877982-sbornii-buket-s-gortenziei-mattioloi-dia"
+        },
+        {
+          "id": 975205488242,
+          "title": "Композиция в шляпной коробке с розой, альстромерией, диантусами и маттиолой",
+          "price": 1900.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3438-3837-4632-b761-363939303135/654bcc1010c17038773767777993591d.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/975205488242-kompozitsiya-v-shlyapnoi-korobke-s-rozoi"
+        },
+        {
+          "id": 417059797292,
+          "title": "Дофаминовый круглый букет в ленту",
+          "price": 5900.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6538-6531-4131-a339-373138613533/e515df53905ddaddff031ff1ee8a1443.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/417059797292-dofaminovii-kruglii-buket-v-lentu"
+        },
+        {
+          "id": 130315597042,
+          "title": "Сборный букет с бордовыми пионами, Вэгги и вибурнумом",
+          "price": 6100.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3165-3563-4438-a330-623562633261/99208d83f22e8b38e5e1c74292393e35.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/130315597042-sbornii-buket-s-bordovimi-pionami-veggi"
+        },
+        {
+          "id": 292506470682,
+          "title": "Дофаминовый букет M - Трендовый букет",
+          "price": 5850.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3330-6139-4434-a635-633839373263/4ddfb0ed48448494dcbfcd07fcbc945c.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/292506470682-dofaminovii-buket-m-trendovii-buket"
+        },
+        {
+          "id": 790564626552,
+          "title": "Большой яркий букет из альстромерии, 35 шт",
+          "price": 5400.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6136-3235-4936-b265-376564646538/4473143c007bec7fd03b4c0da77c2234.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/790564626552-bolshoi-yarkii-buket-iz-alstromerii-35-s"
+        },
+        {
+          "id": 253410099812,
+          "title": "Сборный букет с Вэгги, альстромерией, диантусами и кустовой розой",
+          "price": 5600.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3738-6134-4562-a335-653963656537/799540502fea887149bc1eaf8024a783.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/253410099812-sbornii-buket-s-veggi-alstromeriei-diant"
+        },
+        {
+          "id": 861370379462,
+          "title": "Яркий букет с голубой гортензией, розами, альстромерией, диантусами",
+          "price": 2900.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6530-3834-4130-b837-623965393661/a9f86a06ebe5836f9ba2dcdee03166d3.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/861370379462-yarkii-buket-s-goluboi-gortenziei-rozami"
+        },
+        {
+          "id": 339971994022,
+          "title": "Сборный весенний букет из гортензии, диантусов, маттиолы, матрикарии",
+          "price": 4550.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6261-3736-4730-a530-626330613162/2ee99ee7e0cc998bc579b62a61fad804.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/339971994022-sbornii-vesennii-buket-iz-gortenzii-dian"
+        },
+        {
+          "id": 868408165952,
+          "title": "Сборный яркий букет с гортенизей, розой, диантусами",
+          "price": 3750.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6532-6432-4161-a137-353365633737/c004b77c74fdcd251bf1a0bfb1c9f144.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/868408165952-sbornii-yarkii-buket-s-gortenizei-rozoi"
+        },
+        {
+          "id": 795931253932,
+          "title": "Дофаминовый букет - Трендовый букет",
+          "price": 3550.0,
+          "price_old": 4550.0,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6534-3237-4462-b461-353863316532/126d7179c816f2be33237d27a476e2a9.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dofaminovye-bukety/tproduct/795931253932-dofaminovii-buket-trendovii-buket"
+        }
+      ]
+    },
+    {
+      "category_id": "831007095672",
+      "category_name": "Авторские букеты",
+      "products_count": 36,
+      "products": [
+        {
+          "id": 988174103612,
+          "title": "Сборный букет в фиолетовом",
+          "price": 3160.0,
+          "price_old": 3750.0,
+          "description": "Букет из альстромерии, гербер, кустовой розы и хризантемы, гипсофилы",
+          "sku": "23834352",
+          "badge": "SALE",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3031-3832-4632-b238-643739353163/55102483.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/988174103612-sbornii-buket-v-fioletovom"
+        },
+        {
+          "id": 153485795592,
+          "title": "Букет из альстромерии, диантуса и хризантемы",
+          "price": 3170.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3434-3639-4961-b637-663865343964/41744210.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/153485795592-buket-iz-alstromerii-diantusa-i-hrizante"
+        },
+        {
+          "id": 603585851232,
+          "title": "Букет из диантусов и хризантемы",
+          "price": 3400.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3961-3033-4430-b430-363365363838/94371722.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/603585851232-buket-iz-diantusov-i-hrizantemi"
+        },
+        {
+          "id": 536861179082,
+          "title": "Букет из персиковых роз",
+          "price": 2590.0,
+          "price_old": 2579.0,
+          "description": "",
+          "sku": "",
+          "badge": "SALE",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3461-3539-4635-b665-376662653861/90744334.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/536861179082-buket-iz-persikovih-roz"
+        },
+        {
+          "id": 345761043952,
+          "title": "Букет из хризантем, ромашки и диантуса",
+          "price": 4240.0,
+          "price_old": 3900.0,
+          "description": "Нежный букет из кустовой хризантемы, диантуса, ромашки и рускуса",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3865-3238-4931-a666-316664366465/23080255.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/345761043952-buket-iz-hrizantem-romashki-i-diantusa"
+        },
+        {
+          "id": 996611862992,
+          "title": "Букет из герберы и диантуса",
+          "price": 3960.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3861-6235-4538-b539-393362386435/25444874.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/996611862992-buket-iz-gerberi-i-diantusa"
+        },
+        {
+          "id": 301649354302,
+          "title": "Букет из ирисов и хризантем",
+          "price": 4140.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3235-3638-4136-b633-323065653937/72384931.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/301649354302-buket-iz-irisov-i-hrizantem"
+        },
+        {
+          "id": 316971171112,
+          "title": "Букет из роз",
+          "price": 3850.0,
+          "price_old": null,
+          "description": "Букет из алых роз и гипсофилы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3865-3330-4438-b735-336537393934/54987490.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/316971171112-buket-iz-roz"
+        },
+        {
+          "id": 983247937492,
+          "title": "Букет из роз MIX",
+          "price": 4500.0,
+          "price_old": null,
+          "description": "Букет из роз микс и хамелациума",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6132-6431-4766-a234-313134646666/57110789.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/983247937492-buket-iz-roz-mix"
+        },
+        {
+          "id": 780768043522,
+          "title": "Букет из роз MIX",
+          "price": 4030.0,
+          "price_old": null,
+          "description": "Букет из бордовых роз и кустовой хризантемы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3336-3338-4137-b337-616236633230/39841352.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/780768043522-buket-iz-roz-mix"
+        },
+        {
+          "id": 347890330592,
+          "title": "Букет белых роз",
+          "price": 3680.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3062-6231-4263-a135-353763626136/24888523.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/347890330592-buket-belih-roz"
+        },
+        {
+          "id": 880128970382,
+          "title": "Букет из гортензии и гипсофилы",
+          "price": 1550.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3266-3530-4532-b963-363232663838/91355091.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/880128970382-buket-iz-gortenzii-i-gipsofili"
+        },
+        {
+          "id": 336732514372,
+          "title": "Букет кустовых роз",
+          "price": 4720.0,
+          "price_old": null,
+          "description": "Букет из кустовой розы и хризантемы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3066-3737-4439-b163-323563336532/37237966.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/336732514372-buket-kustovih-roz"
+        },
+        {
+          "id": 984930998742,
+          "title": "Букет из кустовой хризантемы",
+          "price": 2130.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6463-6361-4338-b564-623330633736/36753711.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/984930998742-buket-iz-kustovoi-hrizantemi"
+        },
+        {
+          "id": 391505668072,
+          "title": "Букет из роз и кустовой хризантемы",
+          "price": 2240.0,
+          "price_old": null,
+          "description": "Букет из роз и кустовой хризантемы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3038-3138-4634-b266-383736336434/73534809.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/391505668072-buket-iz-roz-i-kustovoi-hrizantemi"
+        },
+        {
+          "id": 651766944292,
+          "title": "Букет «Харли Квин»",
+          "price": 2880.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3162-3363-4364-b434-386166383732/27557033.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/651766944292-buket-harli-kvin"
+        },
+        {
+          "id": 342676503802,
+          "title": "Букет из диантусов и статицы",
+          "price": 3680.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6537-6232-4336-b830-643665386566/67880693.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/342676503802-buket-iz-diantusov-i-statitsi"
+        },
+        {
+          "id": 876357869042,
+          "title": "Корзина сборная",
+          "price": 7480.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6636-3933-4638-b561-386434623837/23698915.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/876357869042-korzina-sbornaya"
+        },
+        {
+          "id": 750283572042,
+          "title": "Сумочка сборная ( диантусы, альстромерии, хризантемы)",
+          "price": 2880.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6163-3361-4135-b865-323732383464/30017536.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/750283572042-sumochka-sbornaya-diantusi-alstromerii-h"
+        },
+        {
+          "id": 223857713672,
+          "title": "Букет из кустовых роз, рускуса, орнитогалума, альстромерии",
+          "price": 4200.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3735-6166-4330-b364-333332313966/52081400.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/223857713672-buket-iz-kustovih-roz-ruskusa-ornitogalu"
+        },
+        {
+          "id": 879948960082,
+          "title": "Сборный букет",
+          "price": 1730.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6164-3264-4332-b530-623262343237/53618382.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/879948960082-sbornii-buket"
+        },
+        {
+          "id": 468553976362,
+          "title": "Сборный букет",
+          "price": 2880.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3934-3861-4033-a135-353638633139/74430895.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/468553976362-sbornii-buket"
+        },
+        {
+          "id": 683753366942,
+          "title": "Сборный букет",
+          "price": 3850.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3066-3665-4131-a136-623631656262/49291243.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/683753366942-sbornii-buket"
+        },
+        {
+          "id": 134240640202,
+          "title": "Букет РОЗ и хризантем",
+          "price": 4370.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6432-3662-4739-b764-636332336439/25335652.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/134240640202-buket-roz-i-hrizantem"
+        },
+        {
+          "id": 608823539012,
+          "title": "Сборный букет",
+          "price": 3800.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3863-3230-4231-b931-626532663837/30373732.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/608823539012-sbornii-buket"
+        },
+        {
+          "id": 337959955532,
+          "title": "Сборный букет",
+          "price": 3570.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3135-3839-4133-b437-353565633934/20043031.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/337959955532-sbornii-buket"
+        },
+        {
+          "id": 557706856472,
+          "title": "Сборный букет",
+          "price": 3340.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3266-3030-4439-a636-623437313634/65660768.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/557706856472-sbornii-buket"
+        },
+        {
+          "id": 875713954762,
+          "title": "Сборный букет",
+          "price": 3280.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6262-3236-4638-b230-303139656661/94371650.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/875713954762-sbornii-buket"
+        },
+        {
+          "id": 280459696542,
+          "title": "Сборный букет",
+          "price": 3220.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3365-6663-4963-b936-366566346666/64633299.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/280459696542-sbornii-buket"
+        },
+        {
+          "id": 302866952872,
+          "title": "Сборный букет",
+          "price": 2530.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3037-3966-4933-b431-323539316631/85935800.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/302866952872-sbornii-buket"
+        },
+        {
+          "id": 265262427542,
+          "title": "Сборный букет",
+          "price": 2880.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6139-6161-4438-b466-636465653337/99413392.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/265262427542-sbornii-buket"
+        },
+        {
+          "id": 119644666382,
+          "title": "Сборный букет",
+          "price": 3160.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3365-3762-4037-b437-653131663162/73916255.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/119644666382-sbornii-buket"
+        },
+        {
+          "id": 906832809712,
+          "title": "Осенний букет",
+          "price": 6240.0,
+          "price_old": null,
+          "description": "Яркий букет, который состоит из сочетания тёплых осенних оттенков — жёлтого, оранжевого, кремового и бордово-фиолетового.",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3738-3631-4864-b966-303139313630/58769360.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/906832809712-osennii-buket"
+        },
+        {
+          "id": 659509269762,
+          "title": "Нежнейший букет",
+          "price": 3400.0,
+          "price_old": null,
+          "description": "Букет сочетает в себе белые, кремовые и нежно розовые цветы. Дополняет букет яркий акцент из красных ягод и упаковки из полупрозрачной плёнки с красными горошками.",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6434-6264-4938-b539-323631633536/66546821.jpg",
+            "https://static.tildacdn.com/stor6134-3138-4165-a230-396465386264/15009793.jpg",
+            "https://static.tildacdn.com/stor3838-6461-4531-a337-616138373932/16455474.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/659509269762-nezhneishii-buket"
+        },
+        {
+          "id": 766223950882,
+          "title": "Насыщенный желтый букет",
+          "price": 3900.0,
+          "price_old": null,
+          "description": "Букет в насыщенно желтых оттенках",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3934-3131-4131-b836-393236323331/87273414.jpg",
+            "https://static.tildacdn.com/stor6334-3663-4935-b439-616234333336/45347964.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/766223950882-nasischennii-zheltii-buket"
+        },
+        {
+          "id": 381201576032,
+          "title": "Нежный букет из роз",
+          "price": 4770.0,
+          "price_old": null,
+          "description": "Нежный букет из роз",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6363-3532-4637-a337-393736316238/75097408.jpg",
+            "https://static.tildacdn.com/stor3536-6464-4130-a231-303464336436/14577647.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/381201576032-nezhnii-buket-iz-roz"
+        }
+      ]
+    },
+    {
+      "category_id": "470655217732",
+      "category_name": "Букеты невесты",
+      "products_count": 12,
+      "products": [
+        {
+          "id": 819556133722,
+          "title": "Букет невесты «Розовое обещание»",
+          "price": 8050.0,
+          "price_old": 8500.0,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3237-6661-4433-a333-336661386436/07b8f83feca3ec2e7ae4ecdef124a7f6.jpg",
+            "https://static.tildacdn.com/stor3061-3265-4531-a630-373435373430/9eb06bd3960a354d85232b9b92c20abd.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/819556133722-buket-nevesti-rozovoe-obeschanie"
+        },
+        {
+          "id": 693847951292,
+          "title": "Букет невесты с белыми розами",
+          "price": 9200.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3533-3135-4333-a534-316363373039/f641b195a093346d3d999de385691edd.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/693847951292-buket-nevesti-s-belimi-rozami"
+        },
+        {
+          "id": 442188511942,
+          "title": "Букет невесты «Кремовая мечта»",
+          "price": 8630.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3866-3761-4962-b839-653964333961/26d1ead68d2d6da4a8ac65468be0ddf9.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/442188511942-buket-nevesti-kremovaya-mechta"
+        },
+        {
+          "id": 185926684862,
+          "title": "Свадебный букет с голубой гортензией и незабудками",
+          "price": 11500.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3633-6132-4364-b537-613761353064/7200fc7314a0904959e7347bae2b2346.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/185926684862-svadebnii-buket-s-goluboi-gortenziei-i-n"
+        },
+        {
+          "id": 718428729652,
+          "title": "Свадебный букет «Кимберли»",
+          "price": 9780.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6264-3033-4935-a663-393333356162/c245f713ba7f22fa626ea7bd19a5ff41.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/718428729652-svadebnii-buket-kimberli"
+        },
+        {
+          "id": 900381275892,
+          "title": "Свадебный букет из винных калл",
+          "price": 14380.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6636-3165-4439-b638-323563363335/e477ad89b3f821a47b6ca64699ab3fcb.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/900381275892-svadebnii-buket-iz-vinnih-kall"
+        },
+        {
+          "id": 218458975322,
+          "title": "Свадебный букет из белых калл 17шт",
+          "price": 11960.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3232-3735-4964-a133-633837356536/a53947b789a27b0a4878f8c4f6b91129.jpg",
+            "https://static.tildacdn.com/stor3136-3164-4432-a432-663638333138/499b20ea48e4b48eaf42129f4eecc66d.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/218458975322-svadebnii-buket-iz-belih-kall-17sht"
+        },
+        {
+          "id": 955921621832,
+          "title": "Свадебный букет из пионовидных роз, матиолы, лизиантуса",
+          "price": 6200.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6635-3831-4238-a363-366164633035/b85bad66b6bca0a6cb1ae46b35e6559d.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/955921621832-svadebnii-buket-iz-pionovidnih-roz-matio"
+        },
+        {
+          "id": 966780930812,
+          "title": "Букет невесты из лизиантуса и эвкалипта",
+          "price": 6330.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6264-6334-4134-a665-396161663534/074d726b196f39e211c36ca6fec47257.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/966780930812-buket-nevesti-iz-liziantusa-i-evkalipta"
+        },
+        {
+          "id": 657456153232,
+          "title": "Букет невесты с гортензией и пионовидной розой",
+          "price": 9360.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3661-3664-4862-b030-643934383830/640d15eaa05ebacbe3ad23af500e6336.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/657456153232-buket-nevesti-s-gortenziei-i-pionovidnoi"
+        },
+        {
+          "id": 873716082612,
+          "title": "Букет невесты в красно бордовых оттенках",
+          "price": 7940.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6565-6236-4832-b263-333265326265/5d590dc41eb008c255af1584ba1da744.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/873716082612-buket-nevesti-v-krasno-bordovih-ottenkah"
+        },
+        {
+          "id": 673688953372,
+          "title": "Свадебный букет «Милая»",
+          "price": 4600.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6461-6135-4265-b162-636262326631/b789bd92f702e6b04e75b43797c2a0d9.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/svadebnye-bukety/tproduct/673688953372-svadebnii-buket-milaya"
+        }
+      ],
+      "note": "Заказы на свадебные букеты принимаются минимум за 14 дней до торжества, если срок меньше — мы можем подготовить букет невесты из наличия."
+    },
+    {
+      "category_id": "705329196752",
+      "category_name": "Монобукеты",
+      "products_count": 16,
+      "products": [
+        {
+          "id": 586919044352,
+          "title": "Букет из цветной гипсофилы",
+          "price": 4140.0,
+          "price_old": null,
+          "description": "",
+          "sku": "237634352",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6662-6339-4464-b335-636537363861/97978233.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/586919044352-buket-iz-tsvetnoi-gipsofili"
+        },
+        {
+          "id": 859945092232,
+          "title": "Букет из альстромерии",
+          "price": 2990.0,
+          "price_old": null,
+          "description": "",
+          "sku": "23833952",
+          "badge": "SALE",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3533-3164-4638-a432-643164643631/37282792.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/859945092232-buket-iz-alstromerii"
+        },
+        {
+          "id": 884272340122,
+          "title": "Букет из лилии",
+          "price": 3360.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3739-3530-4437-a662-393939356235/76544405.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/884272340122-buket-iz-lilii"
+        },
+        {
+          "id": 498523871332,
+          "title": "Светящийся букет из гипсофилы",
+          "price": 2850.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6439-3830-4238-b833-326633383531/29514868.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/498523871332-svetyaschiisya-buket-iz-gipsofili"
+        },
+        {
+          "id": 365514649772,
+          "title": "Букет из роз MIX",
+          "price": 4030.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6632-3838-4266-b765-306332623661/99937424.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/365514649772-buket-iz-roz-mix"
+        },
+        {
+          "id": 823979310462,
+          "title": "Букет пионов",
+          "price": 3960.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3838-6665-4732-a463-333931636530/75774261.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/823979310462-buket-pionov"
+        },
+        {
+          "id": 264138875732,
+          "title": "Букет из диантусов",
+          "price": 3220.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3130-3061-4264-b134-383134626363/51750076.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/264138875732-buket-iz-diantusov"
+        },
+        {
+          "id": 664965880732,
+          "title": "Букет из мелкой ромашки",
+          "price": 2880.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3633-6634-4730-a631-636336656664/98582591.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/664965880732-buket-iz-melkoi-romashki"
+        },
+        {
+          "id": 435787751752,
+          "title": "Букет тайный поклонник",
+          "price": 4370.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3466-6630-4639-b135-353163343936/5cd4f760473ac5f10115ac191aea4fdf.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/435787751752-buket-tainii-poklonnik"
+        },
+        {
+          "id": 279973625052,
+          "title": "Французская роза",
+          "price": 3050.0,
+          "price_old": null,
+          "description": "Соберем по вашим пожеланиям",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6235-3434-4836-b166-633039343034/5e634c39bcedb261097734576070eeca.jpg",
+            "https://static.tildacdn.com/stor3632-6338-4435-a237-303435323035/ab72b3c801ba8b9754a294da4ac588d7.jpg",
+            "https://static.tildacdn.com/stor3832-6333-4239-b031-613635373532/3ac915d89145d5939e3c7fbbce5d418e.jpg",
+            "https://static.tildacdn.com/stor3036-3565-4133-b261-393966633564/402fed1b4e608ae2b9a6794147c1984d.jpg",
+            "https://static.tildacdn.com/stor3862-3866-4363-b564-613563386534/848e4eabe51384eedb9303d3be519c3b.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/monobukety/tproduct/279973625052-frantsuzskaya-roza"
+        },
+        {
+          "id": 721967883402,
+          "title": "Радужная гипсофила",
+          "price": 2420.0,
+          "price_old": null,
+          "description": "Эти крошечные цветы-облачка — не просто дополнение",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3866-3663-4964-b064-353535393037/33d2f88b70242834648e90fd18283437.jpg",
+            "https://static.tildacdn.com/stor3833-3337-4538-b530-663665636533/933fc39a78cc208a14aabd0766f82eab.jpg",
+            "https://static.tildacdn.com/stor3236-3132-4366-b635-313633643166/9e3e1e932f590e70cf21bf838f5c6488.jpg",
+            "https://static.tildacdn.com/stor3362-6235-4332-a166-386433303963/4c0fc602914d4bc828520241c353712e.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/721967883402-raduzhnaya-gipsofila"
+        },
+        {
+          "id": 481091878752,
+          "title": "Букет из кустовой розы, эустомы, хризантемы сантини, гипсофилы",
+          "price": 3390.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6163-6133-4634-a537-623637613636/15946756.jpg",
+            "https://static.tildacdn.com/stor6163-3163-4232-b130-323534316638/74036421.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/481091878752-buket-iz-kustovoi-rozi-eustomi-hrizantem"
+        },
+        {
+          "id": 988489103432,
+          "title": "Красные розы",
+          "price": 2950.0,
+          "price_old": null,
+          "description": "Классика, которая никогда не выйдет из моды",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3635-3462-4339-b237-656264616630/11383340.jpg",
+            "https://static.tildacdn.com/stor3265-6465-4136-b434-366262393137/92576394.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/988489103432-krasnie-rozi"
+        },
+        {
+          "id": 934631815222,
+          "title": "Розовые розы",
+          "price": 4500.0,
+          "price_old": null,
+          "description": "Состав: 9 кустовых роз и гипсофила🌹",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3532-3764-4363-a433-316565373930/54634186.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/934631815222-rozovie-rozi"
+        },
+        {
+          "id": 445350063672,
+          "title": "Необычный букет «Милая дочь»",
+          "price": 1550.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3536-3636-4166-b630-326364376265/7b4eeb6e554612755acb06be306a5b4d.jpg",
+            "https://static.tildacdn.com/stor3733-6163-4236-b434-353631393334/9bff7a33c38abcf4a901fc6e9b017d5d.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/445350063672-neobichnii-buket-milaya-doch"
+        },
+        {
+          "id": 453985380112,
+          "title": "Букет «Любовь»",
+          "price": 4030.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6433-6435-4135-b466-356465363363/100398a42ed5dca0220b6e78c95c42d0.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/den-vlyublennyix/tproduct/453985380112-buket-lyubov"
+        }
+      ]
+    },
+    {
+      "category_id": "492531782852",
+      "category_name": "Цветочные композиции",
+      "products_count": 36,
+      "products": [
+        {
+          "id": 250304197432,
+          "title": "Композиция с сиренью",
+          "price": 4030.0,
+          "price_old": 4500.0,
+          "description": "",
+          "sku": "23898322",
+          "badge": "-30%",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3837-6236-4030-a131-336631343036/72872995.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/250304197432-kompozitsiya-s-sirenyu"
+        },
+        {
+          "id": 216715789482,
+          "title": "Композиция из цветной гипсофилы",
+          "price": 1960.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3861-3632-4063-b662-346132353166/72295025.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/216715789482-kompozitsiya-iz-tsvetnoi-gipsofili"
+        },
+        {
+          "id": 743898462372,
+          "title": "Корзинка с розами",
+          "price": 4430.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3833-3063-4165-a237-373366646463/55710528.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/743898462372-korzinka-s-rozami"
+        },
+        {
+          "id": 661172799732,
+          "title": "Розовая композиция в коробочке",
+          "price": 1640.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3563-6662-4139-b838-666436386130/60684845.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/661172799732-rozovaya-kompozitsiya-v-korobochke"
+        },
+        {
+          "id": 556702210162,
+          "title": "Композиция в сумочке из диантусов и хризантем",
+          "price": 2680.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3038-6361-4738-b231-373734363935/60290301.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/556702210162-kompozitsiya-v-sumochke-iz-diantusov-i-h"
+        },
+        {
+          "id": 669453929592,
+          "title": "Яркая гипсофила в коробочке",
+          "price": 1960.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3036-3930-4034-b563-353164313561/61559157.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/669453929592-yarkaya-gipsofila-v-korobochke"
+        },
+        {
+          "id": 954458418092,
+          "title": "Композиция в чашке из сухоцветов",
+          "price": 1220.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3534-3239-4461-a139-333736376639/95131005.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/954458418092-kompozitsiya-v-chashke-iz-suhotsvetov"
+        },
+        {
+          "id": 865845993462,
+          "title": "Композиция в стакане из сухоцветов",
+          "price": 1940.0,
+          "price_old": null,
+          "description": "Композиция в кружке из эвкалипта, хлопка, лагуруса и лаванды",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6661-3961-4364-a333-323530636562/23146966.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/865845993462-kompozitsiya-v-stakane-iz-suhotsvetov"
+        },
+        {
+          "id": 336975912462,
+          "title": "Композиция из сухоцветов в сумочке",
+          "price": 770.0,
+          "price_old": null,
+          "description": "Композиция в сумочке из натурального хлопка, лаванды, вейника",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3761-6431-4435-b234-363338316531/88537850.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/336975912462-kompozitsiya-iz-suhotsvetov-v-sumochke"
+        },
+        {
+          "id": 963854786182,
+          "title": "Композиция из сухоцветов",
+          "price": 1100.0,
+          "price_old": null,
+          "description": "Композиция из натурального хлопка, лаванды, помпасной травы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3861-6561-4265-a531-653962376531/12709615.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/963854786182-kompozitsiya-iz-suhotsvetov"
+        },
+        {
+          "id": 927521012412,
+          "title": "Композиция комплимент",
+          "price": 1050.0,
+          "price_old": null,
+          "description": "Композиция «Комплимент» в коробке",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3439-3433-4639-b638-396133663232/33378147.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/927521012412-kompozitsiya-kompliment"
+        },
+        {
+          "id": 434616853772,
+          "title": "Композиция из роз, гвоздики, хризантемы и эвкалипта",
+          "price": 2460.0,
+          "price_old": null,
+          "description": "Композиция в коробке из роз, кустовой гвоздики, хризантемы, эвкалипта и гиацинта",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6366-3136-4630-b538-323434656235/63754251.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/434616853772-kompozitsiya-iz-roz-gvozdiki-hrizantemi"
+        },
+        {
+          "id": 451699982272,
+          "title": "Композиция из лилии, роз, эвкалипта, хризантемы Сантини",
+          "price": 3320.0,
+          "price_old": null,
+          "description": "Композиция в коробке из лилий, роз, кустовой гвоздики, гиацинта, хризантемы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6533-3664-4039-a532-343539306462/40371944.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/451699982272-kompozitsiya-iz-lilii-roz-evkalipta-hriz"
+        },
+        {
+          "id": 704125101482,
+          "title": "Композиция из роз",
+          "price": 3220.0,
+          "price_old": null,
+          "description": "Композиция в коробке из роз, эвкалипта",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3132-6330-4730-a636-383030646236/90018314.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/704125101482-kompozitsiya-iz-roz"
+        },
+        {
+          "id": 156160148042,
+          "title": "Композиция в сумке",
+          "price": 1500.0,
+          "price_old": null,
+          "description": "Композиция в сумке из кустовой хризантемы, хлопка, гиацинта",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3061-3335-4234-b531-373830383830/72494954.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/156160148042-kompozitsiya-v-sumke"
+        },
+        {
+          "id": 277389761732,
+          "title": "Композиция из гипсофилы с мягкой игрушкой",
+          "price": 1780.0,
+          "price_old": 2150.0,
+          "description": "Моно композиция из гипсофилы и мягкая ишрушка небольшая на выбор",
+          "sku": "",
+          "badge": "SALE",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3266-3939-4234-b832-633636633932/31417861.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/277389761732-kompozitsiya-iz-gipsofili-s-myagkoi-igru"
+        },
+        {
+          "id": 615239772692,
+          "title": "Копозиция в корзинке",
+          "price": 3210.0,
+          "price_old": null,
+          "description": "Коппозиция из ромашковой хризантемы",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3961-3838-4333-b438-326532306432/89428619.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/615239772692-kopozitsiya-v-korzinke"
+        },
+        {
+          "id": 632142015542,
+          "title": "Копозиция комплимент",
+          "price": 1140.0,
+          "price_old": null,
+          "description": "Композиция из разноцветной хризантемы и гипсофилы на выбор",
+          "sku": "",
+          "badge": "NEW",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3738-6264-4662-a436-663564666332/25311737.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/632142015542-kopozitsiya-kompliment"
+        },
+        {
+          "id": 876357869042,
+          "title": "Корзина сборная",
+          "price": 7480.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6636-3933-4638-b561-386434623837/23698915.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/876357869042-korzina-sbornaya"
+        },
+        {
+          "id": 750283572042,
+          "title": "Сумочка сборная ( диантусы, альстромерии, хризантемы)",
+          "price": 2880.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6163-3361-4135-b865-323732383464/30017536.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/750283572042-sumochka-sbornaya-diantusi-alstromerii-h"
+        },
+        {
+          "id": 223857713672,
+          "title": "Букет из кустовых роз, рускуса, орнитогалума, альстромерии",
+          "price": 4200.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3735-6166-4330-b364-333332313966/52081400.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/223857713672-buket-iz-kustovih-roz-ruskusa-ornitogalu"
+        },
+        {
+          "id": 484507441502,
+          "title": "Цветочная композиция в корзине",
+          "price": 3280.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6365-6234-4566-a465-373061383137/61016730.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/484507441502-tsvetochnaya-kompozitsiya-v-korzine"
+        },
+        {
+          "id": 326533890052,
+          "title": "Цветочная композиция в шляпной коробке",
+          "price": 3680.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6630-6537-4234-a537-303633343334/70195992.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/326533890052-tsvetochnaya-kompozitsiya-v-shlyapnoi-ko"
+        },
+        {
+          "id": 390119362012,
+          "title": "Букет Альстромерий",
+          "price": 2650.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6335-6337-4339-b533-396461336462/65202730.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/390119362012-buket-alstromerii"
+        },
+        {
+          "id": 219496830532,
+          "title": "Букет РОЗ",
+          "price": 3340.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6334-3537-4138-a434-623066653765/73788439.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/219496830532-buket-roz"
+        },
+        {
+          "id": 995931726442,
+          "title": "Букет кустовых Роз",
+          "price": 3220.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6334-3537-4138-a434-623066653765/73788439.jpg",
+            "https://static.tildacdn.com/stor3963-3965-4634-b961-393666643831/80565611.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/995931726442-buket-kustovih-roz"
+        },
+        {
+          "id": 715337720332,
+          "title": "Цветочная композиция в сумочке",
+          "price": 0.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6266-3363-4732-a161-633332373933/70938898.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/715337720332-tsvetochnaya-kompozitsiya-v-sumochke"
+        },
+        {
+          "id": 495236711372,
+          "title": "Цветочная композиция",
+          "price": 1150.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3764-3261-4766-a163-636437616437/30515026.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/495236711372-tsvetochnaya-kompozitsiya"
+        },
+        {
+          "id": 435669020112,
+          "title": "Цветочная композиция в шляпной коробке",
+          "price": 2240.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6564-6539-4466-a330-363437383863/38733354.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/435669020112-tsvetochnaya-kompozitsiya-v-shlyapnoi-ko"
+        },
+        {
+          "id": 306413360392,
+          "title": "Цветочная композиция в шляпной коробке",
+          "price": 1960.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6162-3437-4165-b837-366132666431/93918396.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/306413360392-tsvetochnaya-kompozitsiya-v-shlyapnoi-ko"
+        },
+        {
+          "id": 589473916932,
+          "title": "Цветочный комплемент",
+          "price": 1380.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6262-6563-4738-a332-646139613738/28575637.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/589473916932-tsvetochnii-komplement"
+        },
+        {
+          "id": 403990323042,
+          "title": "Воздушные зефирки-хризантемы в сочетание с кустовой нежной розой и эустомой",
+          "price": 3010.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3934-3431-4035-b737-653033386436/f12e0c20903f0cdf9337fe8dba8f952f.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/403990323042-vozdushnie-zefirki-hrizantemi-v-sochetan"
+        },
+        {
+          "id": 510864942602,
+          "title": "Нежный букетик для вашей красавицы",
+          "price": 4890.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6333-6564-4165-b632-323662653733/2b508e5e15fecbf7dfbae3ccdb45f831.jpg",
+            "https://static.tildacdn.com/stor3931-3564-4035-a563-326534626139/671d1c786593f99b9ab05c06bcc11282.jpg",
+            "https://static.tildacdn.com/stor3431-3337-4934-b832-653232613939/f738c2aff4d7b495d1f6207f5be52ac9.jpg",
+            "https://static.tildacdn.com/stor3366-3030-4362-a634-383062663762/abb26fd0731c0587e4924483372cd94f.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/510864942602-nezhnii-buketik-dlya-vashei-krasavitsi"
+        },
+        {
+          "id": 597797718282,
+          "title": "Яркий и сочный букетик из кустовой розы, альстромерии, диантусов и хризантемы сантини",
+          "price": 4140.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6531-3732-4333-b335-316435636533/2275adb478cbd2b6c77cfa11f425e32f.jpg",
+            "https://static.tildacdn.com/stor3930-6163-4931-a533-363937626331/916bf6ddebef0e0c56117db037764d4b.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/avtorskie-bukety/tproduct/597797718282-yarkii-i-sochnii-buketik-iz-kustovoi-roz"
+        },
+        {
+          "id": 458567880142,
+          "title": "Твой персональный новогодний набор для отрыва!",
+          "price": 2590.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6432-3062-4262-b164-376436396137/d8a8c1f95e0f109e85cf52647db8632b.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/novogodnie-bukety/tproduct/458567880142-tvoi-personalnii-novogodnii-nabor-dlya-o"
+        },
+        {
+          "id": 652459720572,
+          "title": "Композиция в сумочке «Дорогой подруге»",
+          "price": 2620.0,
+          "price_old": null,
+          "description": "Дорогой подруге — целый сад в миниатюре.",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6262-3639-4661-b363-626438386466/73ec62d0f7748fee9a6dcd1201d703c0.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/tproduct/652459720572-kompozitsiya-v-sumochke-dorogoi-podruge"
+        }
+      ]
+    },
+    {
+      "category_id": "836368059052",
+      "category_name": "Цветы поштучно",
+      "products_count": 13,
+      "products": [
+        {
+          "id": 106091341372,
+          "title": "Кустовая хризантема",
+          "price": 320.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3436-3337-4638-a362-386138653462/41253390.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/106091341372-kustovaya-hrizantema"
+        },
+        {
+          "id": 803021199972,
+          "title": "Кустовая хризантема Ромашка",
+          "price": 300.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3965-3335-4965-b164-383032383838/33911032.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/803021199972-kustovaya-hrizantema-romashka"
+        },
+        {
+          "id": 436616895482,
+          "title": "Роза бордовая 60-70 см",
+          "price": 290.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3930-3330-4334-b334-376664656264/35903654.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/436616895482-roza-bordovaya-60-70-sm"
+        },
+        {
+          "id": 722588122982,
+          "title": "Роза (Эквадор) Фрутетта 60-70 см",
+          "price": 290.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6437-6236-4964-b035-356337333033/12723260.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/722588122982-roza-ekvador-frutetta-60-70-sm"
+        },
+        {
+          "id": 381780799742,
+          "title": "Роза белая 60-70 см",
+          "price": 280.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3437-6438-4763-b565-653230366236/69363127.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/381780799742-roza-belaya-60-70-sm"
+        },
+        {
+          "id": 905617310722,
+          "title": "Роза Кения 50 см",
+          "price": 170.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3865-3536-4565-b639-663034333733/47606502.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/905617310722-roza-keniya-50-sm"
+        },
+        {
+          "id": 853745576632,
+          "title": "Роза Нина алая 60-70 см",
+          "price": 290.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3633-3433-4732-b633-653562353838/51664885.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/853745576632-roza-nina-alaya-60-70-sm"
+        },
+        {
+          "id": 817126753942,
+          "title": "Роза Мэджик 60-70 см",
+          "price": 290.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3262-3761-4838-b639-623831383463/14762765.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/817126753942-roza-medzhik-60-70-sm"
+        },
+        {
+          "id": 260536407762,
+          "title": "Роза Фуксия 60-70 см",
+          "price": 290.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6437-3866-4733-a237-373661316463/93220250.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/260536407762-roza-fuksiya-60-70-sm"
+        },
+        {
+          "id": 118427968452,
+          "title": "Роза кустовая 50см",
+          "price": 400.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3632-6163-4865-b264-326665656333/36107281.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/118427968452-roza-kustovaya-50sm"
+        },
+        {
+          "id": 922417087432,
+          "title": "Роза кустовая 60-70 см",
+          "price": 480.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6365-3764-4830-b064-316533336136/16896789.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/922417087432-roza-kustovaya-60-70-sm"
+        },
+        {
+          "id": 432356497242,
+          "title": "Хризантема одноголовая",
+          "price": 410.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3839-6132-4139-b138-303031363133/19869938.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/432356497242-hrizantema-odnogolovaya"
+        },
+        {
+          "id": 113613946232,
+          "title": "Альстромерия цвет микс",
+          "price": 260.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6330-3365-4965-a564-623634383966/30820611.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/cvety-po-shtuchno/tproduct/113613946232-alstromeriya-tsvet-miks"
+        }
+      ]
+    },
+    {
+      "category_id": "904336869022",
+      "category_name": "Дары Алтая",
+      "products_count": 14,
+      "products": [
+        {
+          "id": 520796331082,
+          "title": "Мед разнотравье, Алтайский с добавлением ягод и лечебных трав",
+          "price": 350.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6466-3461-4738-a439-363033316362/31856804.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/520796331082-med-raznotrave-altaiskii-s-dobavleniem-y"
+        },
+        {
+          "id": 198567388002,
+          "title": "Напиток чайный из дикорастущих трав Алтая",
+          "price": 520.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3463-6632-4134-b462-373939626365/50375978.jpg",
+            "https://static.tildacdn.com/stor3436-6166-4663-b730-366138306264/91480085.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/198567388002-napitok-chainii-iz-dikorastuschih-trav-a"
+        },
+        {
+          "id": 198684032622,
+          "title": "Чай на основе различных видов лечебных трав",
+          "price": 400.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6561-3238-4165-a162-343532623339/39134666.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/198684032622-chai-na-osnove-razlichnih-vidov-lechebni"
+        },
+        {
+          "id": 525724520912,
+          "title": "Чайный напиток",
+          "price": 520.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3063-3765-4034-b963-303330333436/60533439.jpg",
+            "https://static.tildacdn.com/stor3165-3734-4935-a162-626635623132/65061371.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/525724520912-chainii-napitok"
+        },
+        {
+          "id": 859461109962,
+          "title": "Сибирский пуэр",
+          "price": 750.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3339-6532-4731-b234-303265636135/80884073.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/859461109962-sibirskii-puer"
+        },
+        {
+          "id": 356749596412,
+          "title": "Натуральные алтайские и сибирские бальзамы",
+          "price": 450.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3161-3835-4037-a332-643534306534/15039248.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/356749596412-naturalnie-altaiskie-i-sibirskie-balzami"
+        },
+        {
+          "id": 374940385752,
+          "title": "Натуральная жевательная резинка",
+          "price": 230.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3236-3037-4331-b666-663639393538/31564938.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/374940385752-naturalnaya-zhevatelnaya-rezinka"
+        },
+        {
+          "id": 147958632982,
+          "title": "Целебный пар для ванной и бани",
+          "price": 400.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3537-6334-4136-a232-376436656630/22343605.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/147958632982-tselebnii-par-dlya-vannoi-i-bani"
+        },
+        {
+          "id": 575445014072,
+          "title": "Мочалка для умывания многоразовая",
+          "price": 450.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3537-6334-4136-a232-376436656630/22343605.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/575445014072-mochalka-dlya-umivaniya-mnogorazovaya"
+        },
+        {
+          "id": 694900949612,
+          "title": "Конфеты с кедровым орехом и ягодами",
+          "price": 680.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6666-3538-4138-b237-613362613636/12612651.jpg",
+            "https://static.tildacdn.com/stor3032-3436-4833-b032-323736346663/48047907.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/694900949612-konfeti-s-kedrovim-orehom-i-yagodami"
+        },
+        {
+          "id": 486756098942,
+          "title": "Фигурка зайчика фруктово-ореховая",
+          "price": 450.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3938-6636-4833-b230-626236646461/75367286.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/486756098942-figurka-zaichika-fruktovo-orehovaya"
+        },
+        {
+          "id": 753114453322,
+          "title": "Батончик фруктово-ореховый",
+          "price": 230.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3863-6330-4661-b435-616534373133/30831563.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/753114453322-batonchik-fruktovo-orehovii"
+        },
+        {
+          "id": 210435990202,
+          "title": "Безалкогольный бальзам",
+          "price": 520.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor3636-3839-4230-b538-353430323531/18833362.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/dary-altaya/tproduct/210435990202-bezalkogolnii-balzam"
+        },
+        {
+          "id": 157649684652,
+          "title": "🎁 Новогодний набор «Алтайское гостеприимство»",
+          "price": 2030.0,
+          "price_old": null,
+          "description": "",
+          "sku": "",
+          "badge": "",
+          "unit": "",
+          "images": [
+            "https://static.tildacdn.com/stor6537-3166-4136-a166-646664633839/38cf9d0212337c655d1a295c69300668.jpg"
+          ],
+          "characteristics": [],
+          "url": "https://buket43.ru/novogodnie-bukety/tproduct/157649684652--novogodnii-nabor-altaiskoe-gostepriimst"
+        }
+      ]
+    }
+  ]
+}
